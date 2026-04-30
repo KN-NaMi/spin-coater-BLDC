@@ -1,16 +1,16 @@
 LTspice 26.0.1 for Windows
-Circuit: Z:\home\patryk\Desktop\Wrocław studia\NAMI\spin-coater-BLDC\Electronic\Simulation\symulacja.net
-Start Time: Fri Apr 24 14:11:51 2026
+Circuit: Z:\home\patryk\Desktop\Wrocław-studia\NAMI\spin-coater-BLDC\Electronic\Simulation\symulacja.net
+Start Time: Mon Apr 27 15:21:56 2026
 solver = Normal
 Maximum thread count: 24
 tnom = 27
 temp = 27
 method = trap
 Direct Newton iteration succeeded in finding operating point.
-Total elapsed time: 2.381 seconds.
+Total elapsed time: 2.390 seconds.
 
 Files loaded:
-Z:\home\patryk\Desktop\Wrocław studia\NAMI\spin-coater-BLDC\Electronic\Simulation\symulacja.net
+Z:\home\patryk\Desktop\Wrocław-studia\NAMI\spin-coater-BLDC\Electronic\Simulation\symulacja.net
 C:\users\patryk\AppData\Local\LTspice\lib\cmp\standard.dio
 C:\users\patryk\AppData\Local\LTspice\lib\cmp\standard.bjt
 C:\users\patryk\AppData\Local\LTspice\lib\cmp\standard.mos
